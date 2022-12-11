@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase-functions": "^4.1.0",
+    "telegraf": "^3.38.0"
+  }
+}
