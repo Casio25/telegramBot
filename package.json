@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "apixu": "github:apixu/apixu-nodejs#master",
+    "dotenv": "^16.0.3",
     "firebase-functions": "^4.1.0",
     "telegraf": "^3.38.0"
   }
